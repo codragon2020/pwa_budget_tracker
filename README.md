@@ -1,22 +1,52 @@
-# pwa_budget_tracker
 
-Progressive Web App for tracking your budget.
+  <h1 align="center">Budget-Tracker 👋</h1>
 
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+  ## Description
+🔍 This budget tracking app was built to learn how PWA (Progressive Web Apps) work. The user should be able to add expenses and deposits to their budget with or without a connection to the internet. When entering transactions offline, they should populate the total. As the user comes back online the transaction will move from pending to added.
 
-Offline Functionality:
+  [Heroku Deployed App](https://tranquil-lowlands-46071.herokuapp.com/)
+  
+  ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-Enter deposits offline
+  ## Installation
+  💾 "npm i" should install all dependencies
 
-Enter expenses offline
+  ## Usage
+  📌 PWA built for managing a budget.
+  <br />
+  💻 HTML, CSS, JavaScript, Node, Express, Mongo/Mongoose
 
-When brought back online:
+  ## License
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+  <br />
+  This application is covered by the MIT license. 
 
-Offline entries should be added to tracker.
-User Story
-AS AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling
+  ## Contributing
+  👪 Jason McGinthy
 
-Business Context
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+  ## Tests
+  ✏️ no
+
+  ## Questions
+  ✋ Submit a github issue or email me directly
+  <br />
+  <br />
+
+  :octocat: Find me on GitHub: [codragon2020](https://github.com/codragon2020)
+  <br />
+  <br />
+  ✉️ Email me with any questions: jasonmcginthy@gmail.com
+  <br />
+  <br />
+
+  _This README was generated with ❤️ by [README-generator](https://github.com/codragon2020/readme_generator) 🔥🔥🔥_
+
