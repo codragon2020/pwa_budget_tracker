@@ -50,3 +50,6 @@
 
   _This README was generated with ❤️ by [README-generator](https://github.com/codragon2020/readme_generator) 🔥🔥🔥_
 
+ ## Screenshots:
+
+   ![PWA Budget Tracker Screenshot](/assets/pwa-budget-tracker.png)
