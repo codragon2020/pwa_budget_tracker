@@ -4,7 +4,7 @@
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
   ## Description
-🔍 This budget tracking app was built to learn how PWA (Progressive Web Apps) work. The user should be able to add expenses and deposits to their budget with or without a connection to the internet. When entering transactions offline, they should populate the total. As the user comes back online the transaction will move from pending to added.
+🔍 This budget tracking app was built to learn how PWA (Progressive Web Apps) works. The user should be able to add expenses and deposits to their budget with or without a connection to the internet. When entering transactions offline, they should populate the total. As the user comes back online the transaction will move from pending to added.
 
   [Heroku Deployed App](https://tranquil-lowlands-46071.herokuapp.com/)
   
